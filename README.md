@@ -9,6 +9,6 @@ _Parabulkholderia tropica_ is a nitrogen-fixing bacteria regarded as a plant gro
 
 Interestingly, _Paraburkholderia spinosa_ has been applied on the foliage of banana plants and the permanence on the plant was more durable compared to with the bacterium as a soil drench. We therefore conducted a preliminary experiment to assess the efficacy of _P. tropica_ to counter _M. incognita_ colonizing the rhizosphere of tomato plants. Results showed that foliar application of _P. tropica_ allowed more vigorous growth of tomato plants inoculated with _M. incognita_.
 
-Consequently, we designed a experiment including tomato control plants (TC), tomato plants inoculated with _P. tropica_ (TB), inoculated with _M. incognita_ or bith both  _P. tropica_ and _M. incognita_ (TBN). Three plants in each group were used for tissue collection, total RNA extraction, construction and sequencing of RNAseq NGS libraries.
+Consequently, we designed an experiment including tomato control plants (TC), tomato plants inoculated with _P. tropica_ (TB), inoculated with _M. incognita_ or bith both  _P. tropica_ and _M. incognita_ (TBN). Three plants in each group were used for tissue collection, total RNA extraction, construction and sequencing of RNAseq NGS libraries.
 
 The bioinformatics procedures applied to the analysis of sequencing data are described in the dedicated page 'bioinformaticsAnalysis'.
