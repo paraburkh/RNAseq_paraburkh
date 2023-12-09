@@ -35,4 +35,4 @@ The quality of the reads was extremely high, and therefore did not require any t
 
 Figure 1. Average quality scores of all reads in all libraries.
 
-<img src="images/Q_scores.png" alt="Example Image" width="1200" height="600">
+<img src="images/Q_scores.png" alt="QC scores" style="width: 100%;">
