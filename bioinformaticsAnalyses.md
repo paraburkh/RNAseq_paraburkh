@@ -128,10 +128,7 @@ Proper gene ontology (GO) analysis was conducted with script GO_clusterProfiler.
 All twelve libraries were concatenated, all end1 files and all end2 files and assembled with RNAspades with the following command:
 
 ```bash
-for FILE in *_1.fq.gz
-do	
-	rnaspades.py -t 12  -1 $FILE -2 ${FILE/_1/_2} -o tomato_ITAG4_rnaspades_assembly
-done
+rnaspades.py -t 12  -1 tomato_bn_R1.fq  -2 tomato_bn_R2.fq -o tomato_Ptropica_Mspp_rnaspades_assembly
 ```
 
 This produced 34,793 contigs with length equal or longer than 300 bp. By default, rnaspades.py names this file contigs.fa. We renamed as tomato_nematode_rnaspades_transcripts.fa.
