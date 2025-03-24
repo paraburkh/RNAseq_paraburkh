@@ -12,3 +12,5 @@ Interestingly, _Paraburkholderia spinosa_ has been applied on the foliage of ban
 Consequently, we designed an experiment including tomato control plants (TC), tomato plants inoculated with _P. tropica_ (TB), inoculated with _M. incognita_ or bith both  _P. tropica_ and _M. incognita_ (TBN). Three plants in each group were used for tissue collection, total RNA extraction, construction and sequencing of RNAseq NGS libraries.
 
 The bioinformatics procedures applied to the analysis of sequencing data are described in the dedicated page 'bioinformaticsAnalysis'.
+
+This repo was transferred to a different one: https://github.com/paraburkh/RNAseq_paraburkh
